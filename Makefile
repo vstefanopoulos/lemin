@@ -37,7 +37,7 @@ test:
 
 vis:
 	./letmein $(f) > output.txt
-	python3 python/ant.py
+	python3 visualize/ant.py
 
 git:
 	@$(MAKE) clean

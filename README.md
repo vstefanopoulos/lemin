@@ -78,7 +78,10 @@ Paths provides functions to analize the colony dB and finds the optimal routes f
 ### Moves
 Moves provides functions to move the ants through the provided paths by paths
 # Dependencies
-go 1.22.0 
+go 1.22.0
+Python 3.11.4
+pygame
+ 
 # Authors
 - Vagelis Stefanopoulos
 - Sotiris Masteas   
